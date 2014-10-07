@@ -1,4 +1,5 @@
 ### PHPTracker 0.4 BETA
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ApexWire/PHPTracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 PHPTracker is a library suitable to create Bittorrent files of local files,
 manage peer announcements and provoding initial seed.
